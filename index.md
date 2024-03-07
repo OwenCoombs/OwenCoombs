@@ -1,5 +1,4 @@
-####
-##  Owen Coombs Blog
+####  Owen Coombs Blog
 ##### _Posted March 8th 2024_
 ![image of my dog](https://mail.google.com/mail/u/0?ui=2&ik=50c14320e3&attid=0.1&permmsgid=msg-a:r4587995427499818070&th=18e1a52cc5d3a9a3&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ9ib8VsXllqECc3TlboApB95X47MJyncZDVNryP6RfbCS4p-BiqkQJemjA6QtOqHqUveHBvQ6cw9UWBJJoglDX56tGVbhj0kvCB0XkOCIMpCK9ykqsquesNcb4&disp=emb&realattid=18e1a52c00c99637af91)
 ##  Was your first week what you expected? Why? Why not?
