@@ -9,3 +9,12 @@
 - I am a really big fan of basketball, ive played my whole life.
 - I love to watch Anime, currently my favorite anime to watch right now is "Jujutsu Kaisen".
 - Ive been with my girlfriend Maddie for the past 7 years and weve had our Oakley for 2 years now!
+# Week 2
+- ## What is something you wish you could do but currently do not have the coding skills to accomplish?
+    I would like to under stand float and flex a little bit better along with working more with forms.
+- ## What are you struggling with?
+    Float and Flex, I need to look more into how it works.
+- ## How do you solve a problem? 
+    if i cant wrap my brain around it, ill ask a question or look at other peoples code to see if i can recreate it.
+- ## What methods do you use to help yourself get unstuck?
+    I like to take a step back and take a second to calm down and take a break.
