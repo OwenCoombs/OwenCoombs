@@ -18,3 +18,10 @@
     if i cant wrap my brain around it, ill ask a question or look at other peoples code to see if i can recreate it.
 - ## What methods do you use to help yourself get unstuck?
     I like to take a step back and take a second to calm down and take a break.
+
+# Week 3
+- ## What are your thoughts about the roles HTML, CSS, and JavaScript play in the process of rendering content and providing a user experience?
+    I find it all very fascinating. I love playing around with HTML and CSS, I dont know too much about javascript yet. 
+    But I can tell that Ill really like using it and playing with it aswell.
+- ## What are some objects that your blog incorporates?
+    My blog has a header, it has ordered lists, images. and multiple emphasis elements.
